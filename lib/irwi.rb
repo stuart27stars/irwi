@@ -1,5 +1,4 @@
 require 'active_support/dependencies'
-require 'rails_autolink'
 
 module Irwi
 
